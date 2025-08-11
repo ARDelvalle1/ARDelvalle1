@@ -1,4 +1,7 @@
-## Hi there 👋
+Soy un desarrollador web Full Stack orientado al backend con una gran curiosidad por comprender el funcionamiento de las cosas y su aplicación en el mundo real.
+Entusiasmado de seguir aprendiendo de otros colegas y nutrir mí experiencia de trabajo en equipo.
+
+Para mí programar es un desafío personal el cual aprendí en el Bootcamp de Henry que cuenta con más de 800 horas de programación a adaptarme a los cambios que se pueden presentar durante el desarrollo de un proyecto y a disfrutar. Me destacan la persistencia y la tolerancia a la frustración. Además de aprender cosas nuevas y la superación personal también tengo una fuerte motivación por lograr relaciones profesionales y personales de calidad de largo plazo y habilidades blandas como la escucha activa y la buena comunicación.
 
 <!--
 **ARDelvalle1/ARDelvalle1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
