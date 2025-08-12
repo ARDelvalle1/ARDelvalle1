@@ -1,5 +1,8 @@
 <h1 align="center">Alexis Delvalle - Fullstack developer</h1>
 <h3 align="center">Soy un desarrollador web Full Stack orientado al backend con una gran curiosidad por comprender el funcionamiento de las cosas y su aplicación en el mundo real.</h3>
+<p align="center">
+  <img src="https://i0.wp.com/cmsminds.com/wp-content/uploads/2024/11/full-stack-developer.webp?fit=1280%2C720&ssl=1" height="430"/>
+</p>
 <h3 > ¿Quién soy y qué me define como profesional? </h3>
 Soy desarrollador web Full Stack orientado al backend, con una curiosidad constante por entender cómo funcionan las cosas y aplicarlas en soluciones reales. Me definen la persistencia, la adaptabilidad y la capacidad de aprender de forma autónoma.
 
