@@ -27,9 +27,9 @@ Me encuentro en el desarrollo de un proyecto de una aplicacion de escritorio y e
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardelvalle1" alt="ardelvalle1" /></a> </p>
 
-- 🔭Actualmente estoy trabajando en una aplicacion de escritorio para una ONG llamada [Leukemia](https://github.com/JEduardoCardenasR/Leukemia)
+- 🔭Actualmente estoy trabajando en una aplicacion de escritorio para una ONG ---> [Leukemia](https://github.com/JEduardoCardenasR/Leukemia)
 
-- 🌱 Actualmente continuo aprendiendo las herramientas de desarrollo front end como ser **React, CSS, Tailwind.**
+- 🌱 Continuo aprendiendo las herramientas de desarrollo front end como ser **React, CSS, Tailwind.**
 
 - 📫 Contáctame **alexisdelvalle137@gmail.com**
 
